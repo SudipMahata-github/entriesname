@@ -1,2 +1,1 @@
-# entriesname
-mern project
+https://entriesname.herokuapp.com/
